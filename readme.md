@@ -52,6 +52,11 @@ Git es una herramienta que realiza una función del control de versiones de cód
 5. Con ella podemos mantener un historial completo de versiones
 Podemos movernos, como si tuviéramos un puntero en el tiempo, por todas las revisiones de código y desplazarnos una manera muy ágil.
 
-#### Sintaxis basica
+#### Funcion basica
+![GIT](https://github.com/Bla4ckGM1nd/TALLER_1_GIT/blob/master/assets/img/git_vida_mrr.png)
 
 ___
+
+Espero haya sido de tu agrado esta pequeña guia!! Si tienes alguna pregunta, no dudes en contactarme ;) !!
+
+>> Correo: stephagarcia@hotmail.com
